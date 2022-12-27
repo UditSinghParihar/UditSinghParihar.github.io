@@ -25,9 +25,10 @@ date_format = "Jan 2006"
   date_start = "2021-07-01"
   date_end = "2023-01-01"
   description = """
-  * Developed an end to end autonomous driving agent using cameras, GPS and IMU sensors. Ported the agent from Carla simulator to NuScenes Dataset. Converted the pytorch model to TensorRT and developed a ROS wrapper to run on real Mahindra E2O car achieving final control prediction at 25 HZ, in a zero shot paradigm.
-  * Extended the Lidar based mapping and localization LeGO-LOAM SLAM for the Velodyne and Ouster lidars and ported ROS1 to ROS2 in C++. 
+  * Developed an end to end autonomous driving agent using cameras, GPS and IMU sensors. Ported the agent from Carla simulator to NuScenes Dataset. 
+  * Converted the pytorch model to TensorRT and developed a ROS wrapper to run on real Mahindra E2O car achieving final control prediction at 25 HZ, in a zero shot paradigm.
   * Won the silver medal in the Kaggle Image Matching Challenge 2022 by developing an Ensemble of Deep feature matching algorithm of SuperGlue and LoFTR.
+  * Extended the Lidar based mapping and localization LeGO-LOAM SLAM for the Velodyne and Ouster lidars and ported ROS1 to ROS2 in C++. 
   * Trained Self Supervised Depth estimation PackNet-SfM on Indian driving dataset and on Carla simulator dataset.
   """
 
