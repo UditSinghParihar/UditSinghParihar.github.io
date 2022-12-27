@@ -2,13 +2,19 @@
 title: "Estimation of Appearance and Occupancy Information in Bird’s Eye View from Surround Monocular Images"
 
 authors:
-- name: Sarthak Sharma
-  link: "https://www.linkedin.com/in/1sarthaksharma3/"
-- name: Unnikrishnan R Nair
-  link: "https://unnikrishnanrnair.github.io/"
+- Sarthak Sharma
+- Unnikrishnan R Nair
 - admin
 - Menon Midhun S
 - Srikanth Vidapanakal
+# Link to author profiles (optional).
+# For an author named `John Smith`, use `john-smith`.
+# Set `link` to `""` or comment out `link` if you don't want a link.
+# Example of linking to an author profile:
+# - name: John Smith
+#   link: "john-smith"
+#   affiliation: "1, 2"  # (Multiple affiliations must be quoted)
+# - admin  # This is an example of linking to the author profile of `admin`.
 
 # author_notes:
 # - "Equal contribution"
