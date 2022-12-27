@@ -75,7 +75,7 @@ user_groups:
 ---
 
 
-Hey! I am currently at OLA Electric working on 3D scene representation of end-to-end autonomous driving agents and Mapping and Localization. Our work on deep feature matching has achieved a silver medal in the Kaggle Image Matching Challenge. I have been working on porting PyTorch model to the TensorRT for faster inference on resource-constraint devices and developing ROS2 wrapper around the deep learning pipeline.
+Hey! I am currently at OLA Electric working on 3D scene representation of end-to-end autonomous driving agents and Mapping and Localization. Our work on deep feature matching has achieved a silver medal in the Kaggle Image Matching Challenge and our work on adding appearance information to the Bird's Eye View have been accepted in ICRA Workshop. I have also been developing ROS2 wrapper around the deep learning pipeline for SIL and HIL testing and converting Pytorch models to TensorRT for faster inference of the autonomous driving agents.
 
 Previously, I have done my master's from IIITH from Robotics Research Center where I have been working on the intersection of SLAM, 3D computer vision, and deep learning with [Prof Madhava Krishna](https://robotics.iiit.ac.in/).
 Our work on robust pose graph SLAM has been published at the ICRA conference and our work on Robust feature matching has been presented at the IROS conference. These works targets improving SLAM performance in feature-less regions and improving correspondence matching in high illumination and viewpoint variations.

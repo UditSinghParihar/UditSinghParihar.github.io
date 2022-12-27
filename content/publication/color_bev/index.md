@@ -2,7 +2,8 @@
 title: "Estimation of Appearance and Occupancy Information in Bird’s Eye View from Surround Monocular Images"
 
 authors:
-- Sarthak Sharma
+- name: Sarthak Sharma
+  url: "https://www.linkedin.com/in/1sarthaksharma3/"
 - Unnikrishnan R Nair
 - admin
 - Menon Midhun S
