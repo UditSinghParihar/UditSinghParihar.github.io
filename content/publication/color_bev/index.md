@@ -3,7 +3,6 @@ title: "Estimation of Appearance and Occupancy Information in Bird’s Eye View 
 
 authors:
 - name: Sarthak Sharma
-  url: "https://www.linkedin.com/in/1sarthaksharma3/"
 - Unnikrishnan R Nair
 - admin
 - Menon Midhun S
