@@ -75,7 +75,7 @@ user_groups:
 ---
 
 
-Hey! I am currently working in Qualcomm XR Research on improving multi-camera + IMU system for Visual Inertial Odometry and SLAM. We are working to bring down the VIO accuracy under 1 mm for smooth AR/VR experience. Working on improving VIO in low texture and high dynamic range environments.
+Hey! I am currently working in Qualcomm XR Research on improving multi-camera + IMU system for Visual Inertial Odometry and SLAM. We are working to bringing down the VIO accuracy under 1 mm for smooth AR/VR experience. I am targeting to improve VIO in low texture and high dynamic range environments.  
 Previously, I was working at OLA Electric on 3D scene representation of end-to-end autonomous driving agents and Mapping and Localization. Our work on deep feature matching has achieved a silver medal in the Kaggle Image Matching Challenge and our work on adding appearance information to the Bird's Eye View have been accepted in ICRA Workshop. I have also been developing ROS2 wrapper around the deep learning pipeline for SIL and HIL testing and converting Pytorch models to TensorRT for faster inference of the autonomous driving agents.
 
 Before that, I have done my master's from IIITH from Robotics Research Center where I have been working on the intersection of SLAM, 3D computer vision, and deep learning with [Prof Madhava Krishna](https://robotics.iiit.ac.in/).
